@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Scottish Research Integrity Network"
+  site-url: https://ScotResIntNet.github.io
+  repo-url: https://github.com/UKRN/ScotResIntNet/ScotResIntNet.github.io
+  #image: images/logo.png
+  #favicon: images/favicon.ico
+  # google-analytics:
+  #   tracking-id: ""
+  #   storage: cookies
+  #   anonymize-ip: true
+  navbar:
+    #logo: /images/logos/logo.png
+    logo-alt: ""
+    toggle-position: "right"
+    right:
+      - text: " "
+        icon: house-door-fill # https://icons.getbootstrap.com/
+        href: index.qmd
+      - resources.qmd
+
+
+  page-footer:
+    background: primary
+    left: "[![](images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/legalcode.en)"
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/ScotResIntNet
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: www/style.css
