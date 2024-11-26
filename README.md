@@ -1,4 +1,4 @@
-# Scottish Resaerch Integroity Network
+# Scottish Research Integrity Network
 
 ## How to add your member page
 
