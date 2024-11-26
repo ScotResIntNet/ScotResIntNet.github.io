@@ -4,7 +4,7 @@ date: 2024-11-26
 description: In-Person Meeting network meeting in Dundee
 ---
 
-When: 26th November 2024, 10:00am – 4:00pm  
+When: 26th November 2024, 10:00 – 16:00 
 
 Where: Murray Seminar Room, School of Life Sciences Research Complex, University of Dundee, Old Hawkhill, Dundee DD1 5AA
 
