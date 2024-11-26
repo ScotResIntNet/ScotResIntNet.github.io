@@ -1,0 +1,15 @@
+---
+draft: true # delete this after filling out below
+title: Full Name
+author: Lastname, Firstname
+role: 
+  - ????
+  - ????
+institution: 
+  - ????
+image: images/????.jpg # add image to members/images or delete if no image
+url: ????
+categories: ["MyInstitution"]
+---
+
+Any other info you want on your member page (or delete).
