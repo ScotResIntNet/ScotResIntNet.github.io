@@ -1,0 +1,11 @@
+---
+title: Exploring indicators of research integrity
+type: doc
+categories: ukcori
+description: UKCORI report on building the evidence base for research integrity on a UK-wide scale.
+url: https://ukcori.org/our-work/exploring-indicators-of-research-integrity/
+---
+
+UKCORI presents their work on the development of indicators of research integrity for use by Higher Education Institutions (HEIs) in the UK to: (1) build the evidence base for research integrity on a UK-wide scale, and (2) support HEIs to self-assess and improve their support for research integrity.
+
+[Website](https://ukcori.org/our-work/exploring-indicators-of-research-integrity/)

@@ -1,0 +1,25 @@
+---
+title: UKCORI
+type: org
+categories: [organisation, ukcori]
+description: UK Committee on Research Integrity 
+url: https://ukcori.org/
+image: ../images/ukcori.png
+---
+
+The [UK Committee on Research Integrity](https://ukcori.org/) (UKCORI) promotes and drives research integrity in the UK.
+
+Their vision is that the UK’s research system continues to be known for its research integrity, which: 
+
+-  is central to the work and actions of all individuals, groups, and organisations in the research system  
+-  enhances and protects the quality of research  
+-  safeguards confidence in research 
+
+They work across the research system, including: 
+
+-  higher education institutions  
+-  independent research organisations 
+-  research institutes  
+-  research funders 
+-  public, private and third sector organisations 
+

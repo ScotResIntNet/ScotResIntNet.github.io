@@ -4,6 +4,8 @@ listing:
   type: grid
   image-placeholder: images/logo.png
   sort: "date desc"
+  sort-ui: false
+  filter-ui: false
 ---
 The Scottish Research Integrity Network is a member-led forum founded in November 2019 with the aim of sharing excellence, good practice and expertise in the field of research integrity across all research active institutions in Scotland. We currently number over sixty members, drawn from research, teaching and professional services backgrounds at some twenty Scottish universities, research institutes and funding bodies. The purpose of our submission is to draw attention to the role of grassroots networks in the research and innovation sector in responding to challenges to the integrity of research.
 

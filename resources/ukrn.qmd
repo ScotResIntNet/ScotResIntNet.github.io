@@ -1,0 +1,10 @@
+---
+title: UKRN
+type: org
+categories: [organisation, ukrn]
+description: UK Reproducibility Network
+url: https://ukrn.org/
+image: ../images/ukrn.png
+---
+
+The [UK Reproducibility Network](https://ukrn.org/) (UKRN) is a national peer-led consortium that aims to ensure the UK retains its place as a centre for world-leading research by investigating the factors that contribute to robust research, promoting training activities, and disseminating best practice. They also work collaboratively with various external stakeholders to ensure coordination of efforts across the sector.

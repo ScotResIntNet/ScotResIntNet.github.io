@@ -1,0 +1,9 @@
+---
+title: Ethics guidelines for internet-mediated research
+type: doc
+categories: [ethics, internet]
+description: This document presents guidance on how the British Psychological Society code may be interpreted in the context of Internet-mediated research (IMR) and what special considerations may apply.
+url: https://www.bps.org.uk/sites/www.bps.org.uk/files/Policy/Policy%20-%20Files/Ethics%20Guidelines%20for%20Internet-mediated%20Research%20%282017%29.pdf
+---
+
+[Website](https://www.bps.org.uk/sites/www.bps.org.uk/files/Policy/Policy%20-%20Files/Ethics%20Guidelines%20for%20Internet-mediated%20Research%20%282017%29.pdf)

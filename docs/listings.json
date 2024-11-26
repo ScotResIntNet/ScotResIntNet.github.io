@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/ukcori.html",
+      "/resources/ukrio.html",
+      "/resources/ukrn.html",
+      "/resources/ukcori-enablers.html",
+      "/resources/bps-internet-ethics.html",
+      "/resources/ukcori-indicators.html",
+      "/resources/aberdeen-social-media-ethics.html",
+      "/resources/ukrio-ai.html",
+      "/resources/dundee-social-media.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/meetings/2024-11-26/index.html",

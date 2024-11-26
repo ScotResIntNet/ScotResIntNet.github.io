@@ -1,0 +1,10 @@
+---
+title: Guidance for researchers using social media for recruitment
+type: doc
+date: 2020-08-25
+categories: [dundee, ethics, "social media"]
+description: Steps to be taken by researchers intending to recruit research participants via social media.
+url: https://www.dundee.ac.uk/corporate-information/guidance-researchers-planning-use-social-media-recruitment
+---
+
+[Advice for researchers](https://www.dundee.ac.uk/corporate-information/guidance-researchers-planning-use-social-media-recruitment) who are planning to recruit participants via social media when planning, writing and submitting their application to the School Research Ethics Committee (SREC)

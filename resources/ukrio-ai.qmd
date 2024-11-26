@@ -1,0 +1,10 @@
+---
+title: UKRIO AI in Research
+type: doc
+date: 2023-07-23
+categories: [ukrio, ai]
+description: Resources about AI in research
+url: https://ukrio.org/ukrio-resources/ai-in-research/
+---
+
+[Website](https://ukrio.org/ukrio-resources/ai-in-research/)

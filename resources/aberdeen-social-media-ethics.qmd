@@ -1,0 +1,9 @@
+---
+title: "Social Media Research: A Guide to Ethics"
+type: doc
+categories: [aberdeen, ethics, "social media"]
+description: A guide for researchers, students, members of ethics committees, employees of funding bodies.
+url: https://www.gla.ac.uk/media/Media_487729_smxx.pdf
+---
+
+[This document](https://www.gla.ac.uk/media/Media_487729_smxx.pdf) is intended for use by researchers, students, members of ethics committees, employees of funding bodies, and anyone else with an interest in the ethics of working with social media data. The main purpose of the document is to provide clear guidelines on the ethical use of social media data in research.
