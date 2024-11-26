@@ -14,6 +14,15 @@
     ]
   },
   {
+    "listing": "/members.html",
+    "items": [
+      "/members/debruine-lisa.html",
+      "/members/greenham-richard.html",
+      "/members/nathke-inke.html",
+      "/members/oakley-sam.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/meetings/2024-11-26/index.html",

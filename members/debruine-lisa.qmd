@@ -1,0 +1,13 @@
+---
+title: Lisa DeBruine
+author: DeBruine, Lisa
+role: 
+  - Professor of MetaScience
+  - Academic Lead for Good Research Practice
+  - UKRN Institutional Lead
+institution: 
+  - University of Glasgow
+image: images/debruine.jpg
+url: https://debruine.github.io
+categories: ["University of Glasgow", "UKRN"]
+---

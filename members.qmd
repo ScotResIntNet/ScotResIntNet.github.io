@@ -1,0 +1,12 @@
+---
+title: Members
+listing:
+  template: templates/members.ejs
+  contents: members
+  type: grid
+  sort: author
+  sort-ui: false
+  filter-ui: false
+  categories: true
+---
+

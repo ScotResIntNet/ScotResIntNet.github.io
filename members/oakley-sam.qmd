@@ -1,0 +1,11 @@
+---
+title: Sam Oakley
+author: Oakley, Sam
+role:
+  - Research Governance and Integrity Manager
+institution: 
+  - University of Glasgow
+url: https://www.gla.ac.uk/myglasgow/ris/staff/samanthaoakley/
+image: images/oakley.png
+categories: ["University of Glasgow"]
+---

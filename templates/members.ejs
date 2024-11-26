@@ -1,0 +1,29 @@
+```{=html}
+<ul class="memberlist list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <h3><a href="<%= item.path %>"><%= item.title %></a></h3>
+    <div>
+      <% if (item.image) { %>
+      <img src="<%- item.image %>">
+      <% } else { %>
+      <img src="../images/logo.png">
+      <% } %>
+      
+    </div>
+  
+    <ul>
+      <% for (const institution of item.institution) { %>
+        <li><%= institution %></li>
+      <% } %>
+      <% for (const role of item.role) { %>
+        <li>* <%= role %></li>
+      <% } %>
+      <% if (item.url) { %>
+        <li><a href="<%= item.url %>">Website</a></li>
+      <% }%>
+    </ul>
+  </li>
+<% } %>
+</ul>
+```

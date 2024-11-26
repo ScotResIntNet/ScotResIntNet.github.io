@@ -1,0 +1,11 @@
+---
+title: Prof Inke Näthke, FRSE
+author: Nathke, Inke
+role: 
+  - Professor of Epithelial Biology
+  - Associate Dean for Professional Culture
+  - Research Integrity Lead
+institution: 
+  - University of Dundee
+categories: ["University of Dundee"]
+---
