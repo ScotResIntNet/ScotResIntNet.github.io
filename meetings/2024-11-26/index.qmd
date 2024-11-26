@@ -1,12 +1,12 @@
 ---
-title: SRIN In-Person Meeting
+title: SRIN Fifth Anniversary 
 date: 2024-11-26
-description: Network Meeting in Dundee
+description: In-Person Meeting network meeting in Dundee
 ---
 
 When: 26th November 2024, 10:00am – 4:00pm  
-Where: Murray Seminar Room, School of Life Sciences Research Complex,  
-University of Dundee, Old Hawkhill, Dundee DD1 5AA
+
+Where: Murray Seminar Room, School of Life Sciences Research Complex, University of Dundee, Old Hawkhill, Dundee DD1 5AA
 
 ## Agenda
 
