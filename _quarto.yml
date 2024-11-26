@@ -6,15 +6,15 @@ website:
   title: "Scottish Research Integrity Network"
   site-url: https://ScotResIntNet.github.io
   repo-url: https://github.com/UKRN/ScotResIntNet/ScotResIntNet.github.io
-  #image: images/logo.png
+  image: images/logo.png
   #favicon: images/favicon.ico
   # google-analytics:
   #   tracking-id: ""
   #   storage: cookies
   #   anonymize-ip: true
   navbar:
-    #logo: /images/logos/logo.png
-    logo-alt: ""
+    logo: /images/logo.png
+    logo-alt: "Thistle with SRIN"
     toggle-position: "right"
     right:
       - text: " "
