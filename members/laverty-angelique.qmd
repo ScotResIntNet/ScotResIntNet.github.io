@@ -1,0 +1,10 @@
+---
+title: Angelique Laverty
+author: Laverty, Angelique
+role: 
+  - Research Ethics and Governance Manager
+  - SRIN Interim Steering Group
+institution: 
+  - University of Strathclyde
+categories: ["University of Strathclyde", "interim steering group"]
+---

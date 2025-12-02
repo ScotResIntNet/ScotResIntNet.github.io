@@ -1,0 +1,11 @@
+---
+title: Rowena Lamb
+author: Lamb, Rowena
+role: 
+  - Head of Research Governance, Compliance & Risk
+  - SRIN Interim Steering Group
+institution: 
+  - University of Edinburgh
+url: https://edwebprofiles.ed.ac.uk/profile/rowena-lamb
+categories: ["University of Edinburgh", "interim steering group"]
+---

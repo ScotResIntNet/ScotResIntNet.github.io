@@ -1,0 +1,11 @@
+---
+title: Amanda McKenna
+author: McKenna, Amanda
+role: 
+  - Research Policy and Integrity Officer 
+  - SRIN Interim Steering Group
+institution: 
+  - University of Glasgow
+url: https://www.gla.ac.uk/myglasgow/ris/researchintegrity/meettheteam/
+categories: ["University of Glasgow", "interim steering group"]
+---

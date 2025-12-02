@@ -1,0 +1,12 @@
+---
+title: Charlotte Smith
+author: Smith, Charlotte
+role: 
+  - Research Integrity Manager 
+  - SRIN Interim Steering Group
+institution: 
+  - University of Edinburgh
+image: images/smith-charlotte.jpg
+url: https://www.linkedin.com/in/charlotte-smith-2823a4199/
+categories: ["University of Edinburgh", "interim steering group"]
+---
