@@ -3,8 +3,9 @@ title: Richard Greenham
 author: Greenham, Richard
 role: 
   - Head of Research Policy, Integrity and Governance
+  - SRIN Interim Steering Group
 institution: 
   - University of St Andrews
 url: https://www.st-andrews.ac.uk/research/integrity-ethics/research-integrity/oversight/
-categories: ["University of St Andrews", "interim streeing group"]
+categories: ["University of St Andrews", "interim steering group"]
 ---

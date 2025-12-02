@@ -3,9 +3,10 @@ title: Prof Inke Näthke, FRSE
 author: Nathke, Inke
 role: 
   - Professor of Epithelial Biology
+  - SRIN Interim Steering Group
   - Associate Dean for Professional Culture
   - Research Integrity Lead
 institution: 
   - University of Dundee
-categories: ["University of Dundee", "interim streeing group"]
+categories: ["University of Dundee", "interim steering group"]
 ---

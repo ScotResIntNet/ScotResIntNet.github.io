@@ -12,6 +12,7 @@ listing:
 
 This page is under construction and is just a demo. This is not our full membership.
 
+<!--
 ### Interim Steering Group
 
 * Richard Greenham (St Andrews)
@@ -21,4 +22,4 @@ This page is under construction and is just a demo. This is not our full members
 * Amanda McKenna (Glasgow)
 * Lisa DeBruine (Glasgow)
 * Inke Nathke (Dundee) - retiring
-
+-->
