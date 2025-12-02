@@ -6,5 +6,5 @@ role:
 institution: 
   - University of St Andrews
 url: https://www.st-andrews.ac.uk/research/integrity-ethics/research-integrity/oversight/
-categories: ["University of St Andrews"]
+categories: ["University of St Andrews", "interim streeing group"]
 ---

@@ -7,5 +7,5 @@ role:
   - Research Integrity Lead
 institution: 
   - University of Dundee
-categories: ["University of Dundee"]
+categories: ["University of Dundee", "interim streeing group"]
 ---
