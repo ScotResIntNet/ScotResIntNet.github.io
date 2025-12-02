@@ -1,0 +1,11 @@
+---
+title: Coral Hanson
+author: Hanson, Coral
+role: 
+  - Senior Research Fellow
+  - University Research Integrity Committee Convenor
+institution: 
+  - Edinburgh Napier University
+url: https://www.napier.ac.uk/people/coral-hanson
+categories: ["Edinburgh Napier University"]
+---

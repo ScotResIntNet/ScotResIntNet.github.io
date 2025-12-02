@@ -1,0 +1,18 @@
+---
+title: SRIN Online Meeting
+date: 2025-12-02
+description: Online full network meeting
+---
+
+When: 2nd December 2025, 13:30 - 15:15 
+
+## Agenda
+
+| No. | Agenda Item	| Item Lead	| Verbal/Paper | Timing | Time |
+|---|------------------------------------|------|----|----|----|
+| 1 | Welcome              | Richard | Verbal | 5 mins | 13:30 | 
+| 2 | Update:<br />Steering group work and outreach | Richard | Verbal | 15 mins | 13:35 |
+| 3 | For Discussion:<br />Steering group membership – new volunteers | Rowena | Verbal | 10 mins | 13:50 |
+| 4 | For Discussion:<br />Scottish Research Culture and Integrity Week | Rowena & Frances | Verbal | 15 mins | 14:00 |
+| 5 | Ask the Community:<br />Opportunity to share knowledge/experience<br />What do you want to know/learn? | All | Verbal | 45 mins | 14:15 |
+| 6 | For Discussion:<br />Next SRIN Meeting | All | Verbal | 10 mins| 15:00 |

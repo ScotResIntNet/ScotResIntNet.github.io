@@ -3,6 +3,9 @@ project:
   output-dir: docs
   resources: images
 
+execute: 
+  freeze: auto
+
 website:
   title: "Scottish Research Integrity Network"
   site-url: https://ScotResIntNet.github.io
@@ -22,6 +25,7 @@ website:
         icon: house-door-fill # https://icons.getbootstrap.com/
         href: index.qmd
       - resources.qmd
+      - members.qmd
 
 
   page-footer:
